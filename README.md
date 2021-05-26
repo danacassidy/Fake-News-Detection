@@ -1,2 +1,3 @@
 # Fake-News-Detection
-Creating a model that can detect fake news using NLP.
+A machine learning algorithm that can detect fake news.
+Data from Kaggle: https://www.kaggle.com/danacassidy/fake-news-detector-nlp/edit
